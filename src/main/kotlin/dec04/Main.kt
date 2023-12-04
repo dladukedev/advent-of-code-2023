@@ -34,7 +34,6 @@ fun part1(string: String): Int {
 fun part2(string: String): Long {
     val x =  string.lines()
         .map { Game(it) }
-//        .forEach { println("Game ${it.id} - ${it.wins}") }
 
     val init = x.associate { it.id to 1L }.toMutableMap()
 
