@@ -5,28 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ca4409f-1dff-42e1-b87f-3a7ed314731c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/dec01/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/dec01/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/dec02/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/dec02/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/dec03/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/dec03/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/dec04/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/dec04/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/dec01/Dec01Test.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/dec02/Dec02Test.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/dec03/Dec03Test.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/dec04/Dec04Test.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/dec06/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/dec06/Dec06Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +43,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/donovanladuke/Projects/kt-advent-of-code/advent-of-code-2023/aoc2023",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -71,40 +53,11 @@
       <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$/src/main/resources/files" />
     </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="dec06" />
+    </key>
   </component>
-  <component name="RunManager" selected="Kotlin.MainKt">
-    <configuration name="Dec03Test.part2_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dec03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="dec03" />
-      <option name="MAIN_CLASS_NAME" value="dec03.Dec03Test" />
-      <option name="METHOD_NAME" value="part2_test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Dec04Test.part1_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dec04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="dec04" />
-      <option name="MAIN_CLASS_NAME" value="dec04.Dec04Test" />
-      <option name="METHOD_NAME" value="part1_test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Dec06Test">
     <configuration name="Dec04Test.part2_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
       <extension name="coverage">
@@ -121,8 +74,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainKt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dec03.MainKt" />
+    <configuration name="Dec06Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dec06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dec06" />
+      <option name="MAIN_CLASS_NAME" value="dec06.Dec06Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dec06Test.part1_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dec06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dec06" />
+      <option name="MAIN_CLASS_NAME" value="dec06.Dec06Test" />
+      <option name="METHOD_NAME" value="part1_test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dec06.MainKt" />
       <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -137,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Dec06Test" />
+        <item itemvalue="Kotlin.MainKt (1)" />
+        <item itemvalue="JUnit.Dec06Test.part1_test" />
         <item itemvalue="Kotlin.MainKt" />
         <item itemvalue="JUnit.Dec04Test.part2_test" />
-        <item itemvalue="JUnit.Dec04Test.part1_test" />
-        <item itemvalue="Kotlin.MainKt (2)" />
-        <item itemvalue="JUnit.Dec03Test.part2_test" />
       </list>
     </recent_temporary>
   </component>
